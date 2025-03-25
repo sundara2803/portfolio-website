@@ -9,7 +9,7 @@ export class ProjectsComponent {
   projects = [
     {
       name: 'To-Do App',
-      description: 'A task management app with add, edit, and delete functionalities using Angular.',
+      description: 'A task management app with add, edit, and delete functionalities using Angular and Local storage.',
       imgUrl: 'assets/to-do.png',
       liveUrl: 'https://your-deployed-todo-url.com',
       githubUrl: 'https://github.com/your-todo-github-repo'
