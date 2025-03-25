@@ -1,1 +1,13 @@
-/* You can add global styles to this file, and also import other style files */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Active Link Styling */
+.active {
+  @apply text-blue-600 border-b-2 border-blue-600;
+}
+
+/* Smooth transition */
+nav a {
+  transition: color 0.3s ease-in-out, border-bottom 0.3s ease-in-out;
+}
