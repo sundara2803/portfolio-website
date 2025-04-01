@@ -11,22 +11,15 @@ export class ProjectsComponent {
       name: 'To-Do App',
       description: 'A task management app with add, edit, and delete functionalities using Angular and Local storage.',
       imgUrl: 'assets/to-do.png',
-      liveUrl: 'https://your-deployed-todo-url.com',
-      githubUrl: 'https://github.com/your-todo-github-repo'
-    },
-    {
-      name: 'E-Commerce App',
-      description: 'A fully functional e-commerce site built with Angular and Firebase.',
-      imgUrl: 'assets/e-commerce.png',
-      liveUrl: 'https://your-deployed-url.com',
-      githubUrl: 'https://github.com/your-github-repo'
+      liveUrl: 'https://sundara2803.github.io/todo/',
+      githubUrl: 'https://github.com/sundara2803/todo'
     },
     {
       name: 'Weather App',
       description: 'A weather forecast application using OpenWeather API and Angular.',
       imgUrl: 'assets/weather.png',
-      liveUrl: 'https://your-deployed-url.com',
-      githubUrl: 'https://github.com/your-github-repo'
+      liveUrl: 'https://app-weatherly.netlify.app/',
+      githubUrl: 'https://github.com/sundara2803/weather-app'
     },
     {
       name: 'To-Do App',
@@ -34,6 +27,20 @@ export class ProjectsComponent {
       imgUrl: 'assets/to-do.png',
       liveUrl: 'https://todo-mernstack-app.netlify.app/',
       githubUrl: 'https://github.com/sundara2803/todo-frontend'
+    },
+    {
+      name: 'Financial Portfolio',
+      description: 'A Financial Portfolio Management System built with Angular, featuring interactive charts to track investments, visualize portfolio performance, and manage financial data in real-time.',
+      imgUrl: 'assets/finance.png',
+      liveUrl: 'https://financial-portfolio.netlify.app/',
+      githubUrl: 'https://github.com/sundara2803/financial-portfolio
+    },
+    {
+      name: 'E-Commerce App',
+      description: 'A fully functional e-commerce site built with Angular and Firebase.',
+      imgUrl: 'assets/e-commerce.png',
+      liveUrl: 'https://your-deployed-url.com',
+      githubUrl: 'https://github.com/your-github-repo'
     },
   ];
 }
