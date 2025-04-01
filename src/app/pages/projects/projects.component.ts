@@ -33,7 +33,7 @@ export class ProjectsComponent {
       description: 'A Financial Portfolio Management System built with Angular, featuring interactive charts to track investments, visualize portfolio performance, and manage financial data in real-time.',
       imgUrl: 'assets/finance.png',
       liveUrl: 'https://financial-portfolio.netlify.app/',
-      githubUrl: 'https://github.com/sundara2803/financial-portfolio
+      githubUrl: 'https://github.com/sundara2803/financial-portfolio'
     },
     {
       name: 'E-Commerce App',
