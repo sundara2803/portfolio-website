@@ -22,25 +22,25 @@ export class ProjectsComponent {
       githubUrl: 'https://github.com/sundara2803/weather-app'
     },
     {
-      name: 'To-Do App',
-      description: 'A task management app with add, edit, and delete functionalities using React.',
-      imgUrl: 'assets/to-do.png',
-      liveUrl: 'https://todo-mernstack-app.netlify.app/',
-      githubUrl: 'https://github.com/sundara2803/todo-frontend'
-    },
-    {
       name: 'Financial Portfolio',
-      description: 'A Financial Portfolio Management System built with Angular, featuring interactive charts to track investments, visualize portfolio performance, and manage financial data in real-time.',
+      description: 'A Financial Portfolio  built with Angular, featuring interactive charts to track investments and visualize portfolio performance.',
       imgUrl: 'assets/finance.png',
       liveUrl: 'https://financial-portfolio.netlify.app/',
       githubUrl: 'https://github.com/sundara2803/financial-portfolio'
     },
-    {
-      name: 'E-Commerce App',
-      description: 'A fully functional e-commerce site built with Angular and Firebase.',
-      imgUrl: 'assets/e-commerce.png',
-      liveUrl: 'https://your-deployed-url.com',
-      githubUrl: 'https://github.com/your-github-repo'
-    },
+    // {
+    //   name: 'To-Do App',
+    //   description: 'A task management app with add, edit, and delete functionalities using React.',
+    //   imgUrl: 'assets/to-do.png',
+    //   liveUrl: 'https://todo-mernstack-app.netlify.app/',
+    //   githubUrl: 'https://github.com/sundara2803/todo-frontend'
+    // },
+    // {
+    //   name: 'E-Commerce App',
+    //   description: 'A fully functional e-commerce site built with Angular and Firebase.',
+    //   imgUrl: 'assets/e-commerce.png',
+    //   liveUrl: 'https://your-deployed-url.com',
+    //   githubUrl: 'https://github.com/your-github-repo'
+    // },
   ];
 }
